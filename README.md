@@ -1,2 +1,4 @@
 # hello-world
-WordPress Search Bar Option
+WordPress Search Bar Example
+
+This is working for WP post search.
